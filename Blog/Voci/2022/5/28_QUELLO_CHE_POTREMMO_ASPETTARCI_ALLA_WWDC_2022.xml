@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="EDE468E5-3D04-4E9B-9A8D-7981E8AA99D9">
+  <lastEdited clientType="local-build-20220703" date="2022-07-03 11:00:24 +0000"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>IPHONE NETWORK&#xD;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>QUELLO CHE POTREMMO ASPETTARCI ALLA WWDC 2022</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Alla WorldWide Developers Conference (WWDC) di quest&#x2019;anno vedremo l&#x2019;annuncio di iOS 16 dove stanno spopolando un sacco di leak sul web. In questo screenshot possiamo vedere una vagonata di nuovi widget, come un nuovo design per il widget dei suggerimenti di Siri, un nuovo widget con dei toggle per la torcia, un regolatore della luminosit&#xE0; e un collegamento al telecomando per l&#x2019;Apple TV e infine un nuovo widget per il cronometro &#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;Per la nuova release di macOS, macOS 13 Mammoth dovremmo vedere un nuovo design della barra dei menu che &#xE8; rimasta per lo pi&#xF9; la stessa fin dal primo Macintosh nel 1984, inoltre potremmo anche vedere l&#x2019;arrivo della Libreria App che troviamo su iPhone e iPad per sostituire l&#x2019;ormai datato Launchpad.&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;Dovremmo vedere pura le nuove versioni di tvOS 16 e watchOS 9 ma al momento non abbiamo molte notizie o screenshot ma, conoscendo apple, sappiamo gi&#xE0; cosa aspettarci &lt;/b&gt;</richText>
+  </textBox>
+</content>

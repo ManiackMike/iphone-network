@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="EDE468E5-3D04-4E9B-9A8D-7981E8AA99D9">
+  <lastEdited clientType="local-build-20220703" date="2022-07-03 11:00:25 +0000"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>IPHONE NETWORK</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Date il benvenuto ad iOS 16</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Il 6 giugno si &#xE8; svolta la WWDC 2022, nell&#x2019;articolo precedente abbiamo parlato di macOS Ventura e delle sue nuove funzioni e in questo articolo parleremo di iOS 16 e delle sue nuove funzioni. La prima e pi&#xF9; parlata funzione iOS 16 &#xE8; la larga personalizzazione della LockScreen.&#xD;In iOS 16 tenendo premuto un punto qualunque della LockScreen entrerete in modalit&#xE0; modifica e potrete aggiungere dei Widget alla schermata di blocco, per esempio il widget che ti permette di vedere la percentuale della batteria delle vostre AirPods o, in caso degli iPad la vostra Apple Pencil, Potete cambiare il font dell&#x2019;Orologio e scegliere delle LockScreen gi&#xE0; fatte dal vostro iPhone abbinate ad ognuna delle vostre foto. Sempre parlando di LockScreen, adesso le notifiche appariranno sulla parte bassa dello schermo e alcune notifiche saranno animate, per esempio, potete visualizzare lo stato della consegna di un pacco Amazon o della pizza che avete ordinato su Glovo. Infine, con iOS 16Apple ha introdotto un esperienza CarPlay pi&#xF9; immersiva in tutta la macchina, finalmente potremo controllare l&#x2019;aria condizionata e tutti i controlli della macchina, vedere la velocit&#xE0;, leggere le notifiche, mandare messaggi, rispondere ed effettuare chiamate tutto su un singolo schermo utilizzando temi con sfondi e colori diversi su tutte le macchine nei prossimi mesi.</richText>
+  </textBox>
+</content>

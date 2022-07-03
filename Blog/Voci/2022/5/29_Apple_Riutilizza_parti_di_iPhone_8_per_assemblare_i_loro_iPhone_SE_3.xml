@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="EDE468E5-3D04-4E9B-9A8D-7981E8AA99D9">
+  <lastEdited clientType="local-build-20220703" date="2022-07-03 11:00:24 +0000"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>iphone network</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Apple Riutilizza parti di iPhone 8 per assemblare i loro iPhone SE 3</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Apple, per rendere l'iPhone SE 3 cos&#xEC; economico riutilizza parti inutilizzate di iPhone 8 per assemblarli, scelta molto ecosostenibile dalla compagnia di Cupertino per non sprecare vecchie parti al posto di produrne di nuove e sprecare materiali&#xD;</richText>
+  </textBox>
+</content>

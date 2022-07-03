@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="EDE468E5-3D04-4E9B-9A8D-7981E8AA99D9">
+  <lastEdited clientType="local-build-20220703" date="2022-07-03 11:00:26 +0000"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>iphone network</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Salutate il nuovo MacBook Air M2</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Negli articoli precedenti abbiamo parlato delle novit&#xE0; introdotte alla WWDC 2022 come macOS Ventura e iOS 16, ma non abbiamo visto solo software, ma l&#x2019;introduzione del nuovo processore di Apple, l&#x2019;M2, questa presentazione marc&#xF2; la transizione da M1 a M2 di tutta la linea di prodotti Apple e l&#x2019;introduzione del nuovo MacBoook Air M2, con un nuovo design ereditato dallo spessore dei modelli del MacBook Air precedenti, il colore dell&#x2019;iMac M1 e la Notch del MacBook Pro che f&#xF9; introdotto l&#x2019;anno scorso. Un design che ha messo tutti gli spettatori senza fiato, me incluso. Ma non abbiamo visto solo il MacBook Air M2, ma anche un nuovo MacBook Pro M2, con il design vecchio ma con un nuovo e pi&#xF9; potente processore!</richText>
+  </textBox>
+</content>

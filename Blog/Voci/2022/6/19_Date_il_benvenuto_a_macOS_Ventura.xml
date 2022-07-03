@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="EDE468E5-3D04-4E9B-9A8D-7981E8AA99D9">
+  <lastEdited clientType="local-build-20220703" date="2022-07-03 11:00:25 +0000"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>iphone network</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Date il benvenuto a macOS Ventura</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Luned&#xEC; 6 Giugno si &#xE8; svolta la WWDC 2022, che f&#xF9; la prima conferenza Apple di Persona dopo il 2020. Abbiamo visto iOS 16 con nuove e utili funzioni, ma di questo ne parleremo in un altro articolo. La prima feature che abbiamo visto in macOS Ventura &#xE8; stata Stage Manager, se hai tante finestre aperte attivando la funzione attraverso il centro di controllo tutte le finestre tranne quella attiva in quel momento verranno spostate al lato sinistro dello schermo e per raggiungerle di nuovo basta cliccare sulla finestra desiderata e quella attiva verr&#xE0; minimizata al lato con le altre e la finestra desiderata verra portata sullo schermo, ad alcuni utenti Apple questa funzione ricorda vagamente la Single Window Mode di MacOS X 10.0 Chetaah nel 2001.&#xD;Poi, Apple ha aggiornato il design delle Preferenze di Sistema facendo piazzza pulita del design che abbiamo visto dal 2001 in poi e introdotto un misto fra il design delle impostazioni di sistema dei nostri iPhone e iPad e il Design del Finder. E infine, l&#x2019;ultima funzione riguarda l&#x2019;integrazione fra iPhone e Mac, se attacchi con un accessorio MagSafe ipoteticamente venduto da Apple nei mesi futuri sopra al tuo MacBook e il tuo iphone &#xE8; aggiornato ad iOS 16 puoi utilizzarlo come webcam con PhotoBooth o nelle chiamate Facetime</richText>
+  </textBox>
+</content>
