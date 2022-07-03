@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:CBA90CB7-B6F8-477C-87F3-C64039AD808A</id>
  <title>Page list Atom feed</title>
- <updated>2022-07-03T13:00:22+02:00</updated>
+ <updated>2022-07-03T16:07:43+02:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">Home</title>
   <in-navbar xmlns="urn:iweb:">EA2978FD-DA40-4D57-9A61-C378CA8C2FBA</in-navbar>
   <link rel="alternate" href="Home.html"/>
-  <updated>2022-07-03T13:00:22.001+02:00</updated>
+  <updated>2022-07-03T16:07:43.001+02:00</updated>
   <content>Home</content>
  </entry>
  <entry>
@@ -32,7 +32,34 @@
   <title xmlns="urn:iweb:">Downloads</title>
   <in-navbar xmlns="urn:iweb:">8684898C-9521-4A98-A3CB-A696108BD86A</in-navbar>
   <link rel="alternate" href="Downloads.html"/>
-  <updated>2022-07-03T13:00:22.002+02:00</updated>
+  <updated>2022-07-03T16:07:43.002+02:00</updated>
   <content>Downloads</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:57C135ED-E80D-4ACC-8DFD-B97E42C0B546</id>
+  <title>Diventa un iReporter!</title>
+  <title xmlns="urn:iweb:">Diventa un iReporter!</title>
+  <in-navbar xmlns="urn:iweb:">57C135ED-E80D-4ACC-8DFD-B97E42C0B546</in-navbar>
+  <link rel="alternate" href="Diventa_un_iReporter%21.html"/>
+  <updated>2022-07-03T16:07:43.003+02:00</updated>
+  <content>Diventa un iReporter!</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:74A7C357-33F2-488F-B41F-30F8487D2BD8</id>
+  <title>Diritti d'autore</title>
+  <title xmlns="urn:iweb:">Diritti d'autore</title>
+  <in-navbar xmlns="urn:iweb:">74A7C357-33F2-488F-B41F-30F8487D2BD8</in-navbar>
+  <link rel="alternate" href="Diritti_dautore.html"/>
+  <updated>2022-07-03T16:07:43.004+02:00</updated>
+  <content>Diritti d'autore</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:3171920A-4728-48D3-887A-CD94230E121B</id>
+  <title>Mac Zone</title>
+  <title xmlns="urn:iweb:">Mac Zone</title>
+  <in-navbar xmlns="urn:iweb:">3171920A-4728-48D3-887A-CD94230E121B</in-navbar>
+  <link rel="alternate" href="Mac_Zone.html"/>
+  <updated>2022-07-03T16:07:43.005+02:00</updated>
+  <content>Mac Zone</content>
  </entry>
 </feed>
